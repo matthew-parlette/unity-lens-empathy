@@ -1,0 +1,10 @@
+[Lens]
+DBusName=net.launchpad.lens.empathy
+DBusPath=/net/launchpad/lens/empathy
+Name=Empathy
+Icon=/usr/share/unity/lenses/empathy/unity-lens-empathy.svg
+Description=Empathy Lens for Unity
+Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=unity-lens-empathy
